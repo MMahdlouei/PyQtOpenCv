@@ -7,3 +7,9 @@ This is template project for testing **open cv** in python.
 * Required files added.
 * First Test Passed.
 * gitignore added.
+* New Lines Added.
+
+
+
+
+
